@@ -16,7 +16,7 @@ melody* mlo;
 
 void setup() {
   Serial.begin(9600);
-  mlo=new melody(/*Pin*/);
+  mlo=new melody(/*Pin*/); //Default pin is 2
 }
 
 void loop() {
