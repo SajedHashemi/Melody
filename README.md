@@ -25,17 +25,17 @@ void loop() {
 }
 ```
 
-**Note**: The default melodies in the library include the following:
-0 = M_Happy_Birthday
-1 = M_Beautiful_Life
-2 = M_Money_Money
-3 = M_Mamma_Mia
-4 = M_Gimme_Gimme_Gimme
-5 = M_Batman
-6 = M_Diva
-7 = M_Dallas
-8 = M_Love_Me_Tender
-9 = M_Godfather
+**Note**: The default melodies in the library include the following:<br>
+0 = M_Happy_Birthday<br>
+1 = M_Beautiful_Life<br>
+2 = M_Money_Money<br>
+3 = M_Mamma_Mia<br>
+4 = M_Gimme_Gimme_Gimme<br>
+5 = M_Batman<br>
+6 = M_Diva<br>
+7 = M_Dallas<br>
+8 = M_Love_Me_Tender<br>
+9 = M_Godfather<br>
 
 **Note**: By sending a string containing notes in a format similar to the example below, it is executed through [play] Melody method
 Example:
